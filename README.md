@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔆 Hello and Welcome to my profile<br>✍️ My name is Ishwor Raj Pokharel<br>🏫 currently studying: Electronics, Communication and Information Engineering<br>🔭 currently working on: Live chat application project<br>🌱 currently learning:  Socket.io and express<br>⚡ Fun fact I'm not funny
+🔆 Hello and Welcome to my profile<br>✍️ My name is Ishwor Raj Pokharel<br>🏫 currently studying: Electronics, Communication and Information Engineering<br>🔭 currently working on: build ML algorithms from scratch<br>🌱 currently learning:  sequantial models
 
 
 ## 🌐 Socials:
