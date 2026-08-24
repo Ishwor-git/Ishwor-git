@@ -1,27 +1,63 @@
-<h1 align="center">Namaste 👋, I' amm Ishwor</h1>
-<h3 align="center">A ML Engineer who loves to solve real world problems</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwor-git&label=Profile%20views&color=0e75b6&style=flat" alt="ishwor-git" /> </p>
-
-- 📙 I'm studying **Electronics Communication and Information Engineering**
-
-- 🔭 I’m currently working on **Distributed Inference on multiple low-resources nodes**
-
-- 🌱 I’m currently learning **Edge Inference**
-
-- 💬 Ask me about **AI, ML and Edge Computing**
-
-- 📫 How to reach me **ishwor.079bei013@tcioe.edu.np**
-
-- 📄 Know about my experiences [link.link](link.link)
-
-- ⚡ Fun quote **The more you know, the more you don't**
-
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ee5253,100:0abde3&height=220&section=header&text=Ishwor%20Raj%20Pokharel&fontSize=42&fontColor=ffffff&textAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%C2%B7%20ML%20%2F%20Deep%20Learning%20%2F%20Edge%20AI&descAlignY=60&descSize=17" alt="Ishwor Raj Pokharel" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep_Learning-EE5253?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Edge_AI-0ABDE3?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Edge AI" />
+  <img src="https://img.shields.io/badge/Computer_Vision-10AC84?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Graph_Neural_Networks-576CA8?style=for-the-badge" alt="GNN" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishwor-git&show_icons=true&locale=en" alt="ishwor-git" /></p>
+---
 
+## 👋 About Me
+
+🎓 Final-year B.E. student in **Electronics, Communication and Information Engineering** at the Institute of Engineering, Tribhuvan University (IOE Thapathali Campus). I build across the ML stack — from deep learning for **medical imaging**, **speech processing**, and **graph neural networks** to pushing inference onto resource-constrained **edge devices**.
+
+Co-author of **IsoNet** (multimodal target speech extraction), **1st-place winner at KU Hackfeast 2025**, and **President of Tensor IOE**. Always happy to talk AI, ML, and edge computing.
+
+- 🔭 Currently working on **spatiotemporal graph transformer for early Alzheimer's detection.**
+- 🌱 Learning **edge AI deployment** and **trustworthy / interpretable ML**.
+- 💬 Ask me about **AI, deep learning, and edge computing**.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,fastapi,django,react,pytorch,postgres,mongodb,docker,linux,git,arduino,raspberrypi&perline=7" alt="Tech stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **🎯 IsoNet — Multimodal Audio-Visual Target Speech Extraction**  *(1st place, KU Hackfeast 2025 · paper accepted at JIEE)*  
+  Solves the cocktail-party problem using a 4-mic array + face-conditioned visual embeddings in a U-Net, achieving **9.31 dB SI-SDR** and beating oracle beamformers. *(repo coming soon)*
+
+- **🚶 Human Presence Detection — Distributed Edge Inference**  [🔗](https://github.com/Ishwor-git/hpd_distrributed_infrencing)  
+  Tile-based CV on ESP32-CAM (Sobel edge density) + LBCNN on ESP32-S3 over ESP-NOW for real-time distributed presence detection (82% acc).
+
+- **🤖 Detection of Hallucinations in LLM Reasoning Chains**  [🔗](https://github.com/Ishwor-git/Detection-of-Hallucinations-in-Reasoning-Chains-by-LLMs)  
+  Lightweight classifiers (embedding-similarity → LSTM + attention) for flagging hallucinations in step-by-step LLM reasoning.
+
+- **🧠 Spatiotemporal Graph Transformer for Early Alzheimer's Detection** *(ongoing FYP)*  
+  Graph Attention + Temporal Transformer on rs-fMRI (ADNI) with self-supervised contrastive pretraining and Integrated-Gradients interpretability.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishwor-git&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Ishwor's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwor-git&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Connect
+
+- 💼 LinkedIn: [@i-r-pokharel/](https://www.linkedin.com/in/i-r-pokharel/)
+- 📄 Résumé: [@ishwor](resume/resume.pdf)
+- 🌐 GitHub: [@Ishwor-git](https://github.com/Ishwor-git)
